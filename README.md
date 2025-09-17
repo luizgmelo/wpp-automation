@@ -1,0 +1,1 @@
+# Uma automação para disparo de mensagens via WhatsApp
